@@ -1,0 +1,7 @@
+seeds:
+ - name: cur
+   config:
+    column_types: 
+     currency_code: varchar
+
+     
